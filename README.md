@@ -1,7 +1,7 @@
 # Hi there, I'm Uyen! 👋
 
 <div align="center">
-<a href="https://linkedin.com/in/your-linkedin-username">
+<a href="linkedin.com/in/le-tu-uyen-n-4a0136158e">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="mailto:uyenletunguyen@outlook.com">
