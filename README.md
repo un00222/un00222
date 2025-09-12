@@ -50,8 +50,10 @@ I'm passionate about transforming messy data into actionable insights and buildi
 
 ### 🤖 Room Occupancy ML Prediction  
 **Tech Stack**: Python, Scikit-learn, Pandas, k-NN, LDA, Logistic Regression  
-- Analyzed 10k+ sensor records to predict room occupancy with 99% accuracy using k-NN + Bagging  
-- Designed ML pipeline for smart building energy optimization applications  
+- Analyzed **10k+ sensor records** to predict room occupancy with **99% accuracy** using k-NN with Bagging  
+- Built an end-to-end ML pipeline for **smart building energy optimization**  
+- Compared multiple models (k-NN, LDA, Logistic Regression) to evaluate performance trade-offs  
+- Highlighted potential applications in **energy efficiency and IoT-enabled smart spaces** 
 [View Project](https://github.com/un00222/Predicting_Room_Occupancy.git)
 
 ### 📱 Social Media Addiction Analysis  
