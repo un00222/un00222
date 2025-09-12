@@ -53,14 +53,15 @@ I'm passionate about transforming messy data into actionable insights and buildi
 - Analyzed **10k+ sensor records** to predict room occupancy with **99% accuracy** using k-NN with Bagging  
 - Built an end-to-end ML pipeline for **smart building energy optimization**  
 - Compared multiple models (k-NN, LDA, Logistic Regression) to evaluate performance trade-offs  
-- Highlighted potential applications in **energy efficiency and IoT-enabled smart spaces** 
+- Highlighted potential applications in **energy efficiency and IoT-enabled smart spaces**
 [View Project](https://github.com/un00222/Predicting_Room_Occupancy.git)
 
 ### 📱 Social Media Addiction Analysis  
 **Tech Stack**: Python, Apache Spark, MapReduce, Graph Theory, Apache Sedona  
-- Processed 705-student dataset across 110 countries examining social media impact on academics and mental health  
-- Built end-to-end big data pipeline with spatial analysis and PageRank algorithms  
-- Identified key correlations between platform usage patterns and student outcomes  
+- Processed a dataset of **705 students across 110 countries** to study the link between **social media use, academics, and mental health**  
+- Built an **end-to-end big data pipeline** with MapReduce, Spark, and Sedona for large-scale analysis  
+- Applied **graph algorithms (PageRank, triangle counting)** to uncover platform influence and interaction patterns  
+- Discovered key correlations between **usage behaviors and student performance outcomes**  
 [View Project](https://github.com/un00222/Analyzing_Students_Social_Media_Addiction_and_Academic_Performance.git)
 
 ### ⚡ Energy Analytics Dashboard
