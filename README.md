@@ -48,16 +48,25 @@ I'm passionate about transforming messy data into actionable insights and buildi
 
 ## Featured Projects 💡
 
-### 🤖 Room Occupancy ML Prediction
-**Tech Stack**: Python, Scikit-learn, Pandas, k-NN, LDA, Logistic Regression
-- Analyzed 10k+ sensor records to predict room occupancy with 99% accuracy using k-NN + Bagging
-- Designed ML pipeline for smart building energy optimization applications
+### 🤖 Room Occupancy ML Prediction  
+**Tech Stack**: Python, Scikit-learn, Pandas, k-NN, LDA, Logistic Regression  
+- Analyzed 10k+ sensor records to predict room occupancy with 99% accuracy using k-NN + Bagging  
+- Designed ML pipeline for smart building energy optimization applications  
+[View Project](https://github.com/un00222/Predicting_Room_Occupancy.git)
 
 ### 📱 Social Media Addiction Analysis  
-**Tech Stack**: Python, Apache Spark, MapReduce, Graph Theory, Apache Sedona
-- Processed 705-student dataset across 110 countries examining social media impact on academics and mental health
-- Built end-to-end big data pipeline with spatial analysis and PageRank algorithms
-- Identified key correlations between platform usage patterns and student outcomes
+**Tech Stack**: Python, Apache Spark, MapReduce, Graph Theory, Apache Sedona  
+- Processed 705-student dataset across 110 countries examining social media impact on academics and mental health  
+- Built end-to-end big data pipeline with spatial analysis and PageRank algorithms  
+- Identified key correlations between platform usage patterns and student outcomes  
+[View Project](https://github.com/un00222/Analyzing_Students_Social_Media_Addiction_and_Academic_Performance.git)
+
+### ⚡ Energy Analytics Dashboard  
+**Tech Stack**: Oracle PL/SQL, Azure DevOps, Microsoft Visio  
+- Reverse-engineered complex batch processes for PJM energy forecasting operations  
+- Implemented monitoring dashboard improving system uptime and troubleshooting efficiency  
+[View Project](https://github.com/your-username/energy-analytics-dashboard)
+
 
 ### ⚡ Energy Analytics Dashboard
 **Tech Stack**: Oracle PL/SQL, Azure DevOps, Microsoft Visio
