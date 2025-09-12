@@ -61,13 +61,6 @@ I'm passionate about transforming messy data into actionable insights and buildi
 - Identified key correlations between platform usage patterns and student outcomes  
 [View Project](https://github.com/un00222/Analyzing_Students_Social_Media_Addiction_and_Academic_Performance.git)
 
-### ⚡ Energy Analytics Dashboard  
-**Tech Stack**: Oracle PL/SQL, Azure DevOps, Microsoft Visio  
-- Reverse-engineered complex batch processes for PJM energy forecasting operations  
-- Implemented monitoring dashboard improving system uptime and troubleshooting efficiency  
-[View Project](https://github.com/your-username/energy-analytics-dashboard)
-
-
 ### ⚡ Energy Analytics Dashboard
 **Tech Stack**: Oracle PL/SQL, Azure DevOps, Microsoft Visio
 - Reverse-engineered complex batch processes for PJM energy forecasting operations
