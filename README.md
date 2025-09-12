@@ -66,6 +66,14 @@ I'm passionate about transforming messy data into actionable insights and buildi
 - Reverse-engineered complex batch processes for PJM energy forecasting operations
 - Implemented monitoring dashboard improving system uptime and troubleshooting efficiency
 
+### 🛡 ClaimWise AI – Insurance Claims Processing System *(In Progress)*  
+**Tech Stack**: Python, Google Cloud (BigQuery, Vertex AI, Cloud Storage)  
+- Developed for the **Kaggle BigQuery AI – Building the Future of Data** hackathon with a team of four  
+- AI assistant that helps insurance adjusters by estimating claim costs and spotting potential fraud  
+- Uses **BigQuery vector search** and **multimodal embeddings** to analyze documents and claim photos  
+- Designed to make claim reviews faster, more consistent, and more transparent  
+[View Project](https://github.com/hongdnn/claimwise_ai.git)
+
 ## GitHub Stats 📈
 
 <div align="center">
