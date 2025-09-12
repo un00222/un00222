@@ -24,6 +24,7 @@
 
 ### Programming Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 <img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
 
 ### Data Visualization & Analytics
@@ -86,15 +87,15 @@
 
 ## Featured Projects
 
+### Analyzing Students' Social Media Addiction and Academic Performance
+- **Tech Stack**: Python, Data Analysis, Statistical Modeling, Data Visualization
+- **Features**: Correlation analysis, behavioral pattern identification, academic impact assessment
+- [View Project](https://github.com/un00222/Analyzing_Students_Social_Media_Addiction_and_Academic_Performance)
+
 ### ClaimWise AI - Insurance Claims Processing System
 - **Tech Stack**: Python, Google Cloud, BigQuery, Gemini AI
 - **Features**: Fraud detection using multimodal embeddings, automated claim routing, cost prediction
-- [View Project](https://github.com/YOUR-GITHUB-USERNAME/claimwise-ai)
-
-### [Your Other Project Name]
-- **Tech Stack**: [Technologies used]
-- **Features**: [Key features]
-- [View Project](https://github.com/YOUR-GITHUB-USERNAME/project-name)
+- [View Project](https://github.com/un00222/claimwise-ai)
 
 ---
 
