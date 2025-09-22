@@ -71,7 +71,7 @@ I'm passionate about transforming messy data into actionable insights and buildi
 
 ### 🛡 ClaimWise AI – Insurance Claims Processing System *(In Progress)*  
 **Tech Stack**: Python, Google Cloud (BigQuery, Vertex AI, Cloud Storage)  
-- Developed for the **Kaggle BigQuery AI – Building the Future of Data** hackathon with a team of four  
+- Developed for the **Kaggle BigQuery AI – Building the Future of Data** hackathon with a team of five  
 - AI assistant that helps insurance adjusters by estimating claim costs and spotting potential fraud  
 - Uses **BigQuery vector search** and **multimodal embeddings** to analyze documents and claim photos  
 - Designed to make claim reviews faster, more consistent, and more transparent  
